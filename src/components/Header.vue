@@ -3,10 +3,8 @@
     <header>
       <div class="container">
         <div class="logo">
-          <a href="/">
-            <h4> 247 Property Care </h4>
+          <router-link to="/"><h4> 247 Property Care </h4></router-link>
             <!-- <img src="@/assets/logo.png" alt="logo" class="img-fluid"> -->
-          </a>
         </div>
         <nav>
             <button class="float-right d-md-none" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
